@@ -30,14 +30,14 @@ client.commands = new Map();
  })
  
 client.settings = {
-	prefix: "!",
-	token: "ODEwMDk2NjE5ODQ0MTQxMDg3.YCerRQ.mW7r1ji51QZ97jeTpt-rNd2HJcU",
+    prefix: "!",
+    token: "",
     addChannel: "801105324953436215",
     logChannel :"801105325436043324",
     modRole: "801105324522209301",	
-	processChannel: "801105325436043325",
-	emoji: "☑️",
-	devRole: "801105324513558534"
+    processChannel: "801105325436043325",
+    emoji: "☑️",
+    devRole: "801105324513558534"
  }
  
 client.on('ready', () => {
