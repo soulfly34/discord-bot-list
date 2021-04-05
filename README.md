@@ -16,4 +16,4 @@
 
 
 # Lisans;
-- Botun Sistem Kodlarını Farklı Bir Bot Üzerinden veya Kodları Değiştirmek ve Paylaşmak, Discord vb Sunucu veya Forumlarda Paylaşmak, İzinsiz Bu Altyapı ve Kodlarını Tamamen Yasaktır, Bu Gibi Olaylar İle Karşılaşırsak Telif Hakklarını Çiğnemk Sebebi İle Adli İşlemlere Başvurulacaktır.
+- Botun Sistem Kodlarını Farklı Bir Bot Üzerinden veya Kodları Değiştirmek ve Paylaşmak, Discord vb Sunucu veya Forumlarda Paylaşmak, İzinsiz Bu Altyapı ve Kodlarını Tamamen Yasaktır, Bu Gibi Olaylar İle Karşılaşırsak Telif Hakklarını Çiğnemek Sebebi İle Adli İşlemlere Başvurulacaktır.
