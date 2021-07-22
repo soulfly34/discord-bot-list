@@ -2,13 +2,11 @@
 /*
   # Discord Bot List Botu
   # Soulfly Tarafından Yapılmıştır.
-  # MIT Lisansı Geçerlidir, Uyulmaz İse Adli İşlemlere Başvurulacaktır.
   # Ayrıca Kod Sunucurında Benden İzinsiz Paylaşılması Yasaktır.
   # MIT Lisance ile Korunmaktador.
   # Support: https://discord.gg/9HcSgc8CWJ
 */
 
-// Lisans ve Dediklerim Dışına Çıkılırsa, Adli İşlem Başlatılacaktır. 
 
 const Discord = require('discord.js');
 const fs = require('fs');
@@ -78,14 +76,3 @@ client.on('guildMemberRemove', async member => {
 })
 
 client.login(client.settings.token)
-
-/*
-
-Yazılımların Telif Haklarının İhlali Durumunda Verilecek Cezalar Nelerdir?
-
-Yazılımların telif haklarının ihlal edilmesi durumunda  hem Sınai Mülkiyet Kanunu uyarınca hemde Türk Ceza Kanunu uyarınca yaptırım uygulanması öngörülmüştür. Bu anlamda fail hakkında 2 yıldan 6 yıla kadar hapis cezasına ve/veya 50.000 Türk Lirası ile 150.000 Türk Lirası arasında para cezasına hükmolunur. verilmektedir. Hükmolunacak cezanın tespiti noktasında işlenilen suçun türü önem arz etmektedir. Sınai Mülkiyet Kanunu uyarınca bu suçu işleyen kimse ya da kimseler hakkında 1 yıldan 4 yıla kadar hapis cezasına hükmolunabilmektedir. Şayet suç Vergi Usul Kanunu kapsamında vergi kaçakçılığı suçuna da sebebiyet veriyor ise bu suçtan dolayı da ayrıca yazılımların telif hakkı ihlali suçunu işleyen kimse ya da kimseler hakkında hapis cezası ya da para cezasına hükmolunmaktadır.
-Yukarıda Açıklanan Hususlar Hakkında Detaylı Bilgi ve Hukuki Danışmanlık Almak İçin Büromuz Avukatları ile İletişime Geçmeniz Tavsiye Olunur.
-
-# İlgili Makale: https://www.celikavukatlik.com.tr/yazilimlarin-telif-hakki-korunmasi-ihlali-ve-cezasi/
-
-*/
